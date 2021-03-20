@@ -4,9 +4,7 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
+/*Start of header stlye*/
 
 header {
     padding: 20px;
@@ -41,6 +39,14 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*End Header Sytle*/
+
+/*Start Body Style*/
+
+body {
+    background-color: #d9dcd6;
+}
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -58,6 +64,8 @@ p {
     background-position: center;
 }
 
+
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -73,6 +81,25 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+.content-info {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content-info img {
+    max-height: 200px;
+}
+
+.content-info h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 
 .benefits {
     margin-right: 20px;
@@ -100,23 +127,6 @@ p {
     max-width: 150px;
 }
 
-.content-info {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.content-info img {
-    max-height: 200px;
-}
-
-.content-info h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
