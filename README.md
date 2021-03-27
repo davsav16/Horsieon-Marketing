@@ -8,7 +8,7 @@ Website offers insight into the advantages that companies can gain by having Hor
 *CSS
 
 ## Website
-https://davsav16.github.io/challenge-one/index.html
+https://davsav16.github.io/Horsieon-Marketing/
 
 ## Contribution
 Made with love by Horiseon
